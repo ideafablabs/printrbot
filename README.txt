@@ -1,4 +1,8 @@
-                   .:                     :,                                          
+This is Idea Fab Labs running version of Marlin for the Printrbots. Also I have been changing the file
+C:\Program Files (x86)\Arduino\hardware\teensy\avr\cores\usb_serial\usb_private.h to change the serial numbers so
+these printers will show up as specific serial ports.
+
+          .:                     :,                                          
 ,:::::::: ::`      :::                   :::                                          
 ,:::::::: ::`      :::                   :::                                          
 .,,:::,,, ::`.:,   ... .. .:,     .:. ..`... ..`   ..   .:,    .. ::  .::,     .:,`   
